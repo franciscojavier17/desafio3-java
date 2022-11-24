@@ -1,0 +1,66 @@
+body{
+    margin: 0%;
+    background-color: antiquewhite;
+}
+
+.div {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(1, 167, 1);
+}
+
+.titleOne {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.boxOne {
+    display: flex;
+    justify-content: center;
+}
+
+.titleTwo {
+    text-align: center;
+    font-size: x-large;
+    margin-top: 65px;
+}
+
+.info {
+    text-align: center;
+    margin-top: 65px;
+    margin-bottom: 85px;
+    font-size: smaller;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-between;
+    margin: 5rem 5rem;
+}
+
+.colorOne {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.colorTwo {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.colorThree {
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+}
+
+.colorFour {
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+}
